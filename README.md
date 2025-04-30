@@ -1,6 +1,12 @@
-## Hi there 👋
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
 
+## Oi, Me chamo João Victor Sampaio 👋
+
+💻 Desenvolvedor Full Stack <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 <!--
+
 **VictorSampaioDev/VictorSAmpaioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
 
 <div align="center">
   <a href="https://github.com/larialbu">
