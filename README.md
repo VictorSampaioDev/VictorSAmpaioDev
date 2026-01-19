@@ -80,8 +80,6 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 
 ---
 
-# Stats do GitHub (com animações)
-
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSampaioDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -105,6 +103,12 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 **LinkedIn:** linkedin.com/in/eu-joao-sampaio  
 
 ---
+
+<div align="center">
+  <a href="https://github.com/larialbu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSampaioDev&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSampaioDev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph-dark.svg">
