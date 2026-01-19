@@ -89,12 +89,6 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 
 ---
 
-# Meu Perfil em Modo Arcade  
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
 
 # Onde voce pode me encontrar?
 
@@ -104,11 +98,6 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 
 ---
 
-<div align="center">
-  <a href="https://github.com/larialbu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSampaioDev&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSampaioDev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph-dark.svg">
