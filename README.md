@@ -1,21 +1,19 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
 
-# 🌟 Prazer stalker, me chamo João Vcitor 🚀  
-Desenvolvedor em formação | Sempre aprendendo algo novo
+#  Iae meu fi, me chamo João Victor 🚀 
+O Desenvolvedor Full Stack sempre ta querendo aprender algo novo
 
 ---
 
-# 👨‍💻 Sobre mim
+#  Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.  
-Atualmente em busca de uma oportunidade como **Desenvolvedor Júnior**, onde eu possa aplicar minhas habilidades em lógica, estrutura de dados, SQL e desenvolvimento de aplicações escaláveis.
-
-💡 *Eu acredito que tecnologia muda vidas — e quero fazer parte disso.*
+Formado em Análise e Desenvolvimento de Sistemas, desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
+Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que me fez querer ser Desenvolvedor.
 
 ---
 
-# 🚀 Minhas Skills
+# Alguumas das minhas Skills
 
 ### 💻 Linguagens e Frameworks
 <div>
@@ -68,7 +66,7 @@ Atualmente em busca de uma oportunidade como **Desenvolvedor Júnior**, onde eu 
 
 # 🎓 Formação  
 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-Centro Universitário Anhanguera de Fortaleza — *Cursando*
+Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 
 ---
 
