@@ -4,14 +4,14 @@
 
 <div align="justify">
   
-#  Me chamo João Victor e te dou boas vindas
+# Me chamo João Victor e te dou boas vindas
 
 Aqui voce vai encontrar alguns projetos meus de desenvolvimento web.
 
 </div>
 
 <div align="justify">
-#  Sobre mim
+# Sobre mim
 
 - Formado em Análise e Desenvolvimento de Sistemas;
 -  desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
