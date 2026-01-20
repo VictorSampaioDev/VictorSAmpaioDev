@@ -16,8 +16,7 @@ Aqui voce vai encontrar alguns projetos meus de desenvolvimento web.
 # Sobre Mim:
 
 - Formado em Análise e Desenvolvimento de Sistemas;
--  desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
-Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que me fez querer ser Desenvolvedor;
+-  desenvolvo projetos bscando deixar uma estetica bonita e atraente, afinal, foi isso que me fez querer ser Desenvolvedor;
 - Tenho facilidade em analisar e resolver problemas e procuro transpor isso para a programação;
 - Me formei como Desenvolvedor Full Stack no projeto Geração Tech 2.0;
 - So suspeito pra falar que amo design e musica;
