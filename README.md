@@ -11,7 +11,7 @@ Aqui voce vai encontrar alguns projetos meus de desenvolvimento web.
 </div>
 
 <div align="justify">
-# Sobre mim
+## Sobre Mim:
 
 - Formado em Análise e Desenvolvimento de Sistemas;
 -  desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
@@ -22,7 +22,7 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
 
 </div>
 
-# Alguumas das minhas Skills
+# Algumas das minhas Skills
 
 ### Linguagens e Frameworks
 <div align="justify">
