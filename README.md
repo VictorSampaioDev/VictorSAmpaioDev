@@ -1,17 +1,19 @@
 <!-- Parte superior da página -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header&text=Iae%2C%20meu%20fi!&fontSize=80&fontColor=ffffff" 
   alt="cabeçalho com texto"/>
 
 <div align="justify">
   
-# Me chamo João Victor e te dou boas vindas
+# Me chamo João Victor e te dou boas vindas.
 
 Aqui voce vai encontrar alguns projetos meus de desenvolvimento web.
 
 </div>
 
 <div align="justify">
-## Sobre Mim:
+  
+# Sobre Mim:
 
 - Formado em Análise e Desenvolvimento de Sistemas;
 -  desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
