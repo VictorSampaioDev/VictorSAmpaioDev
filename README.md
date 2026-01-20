@@ -26,35 +26,58 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
 
 # Algumas das minhas Skills
 
-### Linguagens e Frameworks
-<div align="justify">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet)
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Stack</th>
+      <th colspan="7" align="center">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=html"><br>HTML</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=css"><br>CSS</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=bootstrap"><br>Bootstrap</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=tailwind"><br>Tailwind</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=js"><br>JavaScript</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=ts"><br>TypeScript</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=react"><br>React</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=nodejs"><br>Node.js</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=python"><br>Python</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=java"><br>Java</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=supabase"><br>Supabase</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=mysql"><br>MySQL</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=postgres"><br>PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><strong>Testes / DevOps</strong></td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=docker"><br>Docker</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=git"><br>Git</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=github"><br>GitHub</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Game Dev</strong></td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=unity"><br>Unity</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=unreal"><br>Unreal</td>
+      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=cs"><br>C#</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
-### Banco de Dados  
-<div align="justify">
-  
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
-</div>
-
-### Ferramentas  
-<div align="justify">
-  
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-
-</div>
-
----
 
 # Experiência Profissional
 
@@ -73,13 +96,11 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
 - Acompanhamento de estudantes  
 - Desenvolvimento pessoal com foco em empregabilidade  
 
----
 
 # Formação  
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 
----
 
 # Certificações
 
@@ -89,7 +110,6 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 - Inteligência Artificial – Samsung Innovation Campus – *Em andamento*  
 - Marketing Digital – Santander (10h)
 
----
 
 <div align="center">
   
@@ -98,16 +118,12 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
 
 </div>
 
----
-
 
 # Onde voce pode me encontrar?
 
 **Email:** joaovictorsampaio.ti@gmail.com  
 **GitHub:** github.com/VictorSampaioDev  
 **LinkedIn:** linkedin.com/in/eu-joao-sampaio  
-
----
 
 
 <picture>
