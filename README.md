@@ -40,11 +40,11 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
       <td><strong>Frontend</strong></td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=html"><br>HTML</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=css"><br>CSS</td>
-      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=bootstrap"><br>Bootstrap</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=tailwind"><br>Tailwind</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=js"><br>JavaScript</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=ts"><br>TypeScript</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=react"><br>React</td>
+      <td></td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
@@ -54,20 +54,13 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=supabase"><br>Supabase</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=mysql"><br>MySQL</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=postgres"><br>PostgreSQL</td>
+      <td></td>
     </tr>
     <tr>
       <td><strong>Testes / DevOps</strong></td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=docker"><br>Docker</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=git"><br>Git</td>
       <td align="center"><img height="40" src="https://skillicons.dev/icons?i=github"><br>GitHub</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Game Dev</strong></td>
-      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=unity"><br>Unity</td>
-      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=unreal"><br>Unreal</td>
-      <td align="center"><img height="40" src="https://skillicons.dev/icons?i=cs"><br>C#</td>
       <td></td>
       <td></td>
       <td></td>
