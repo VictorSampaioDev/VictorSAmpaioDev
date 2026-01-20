@@ -124,5 +124,3 @@ Centro Universitário Anhanguera de Fortaleza — conclusao em 2025
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
