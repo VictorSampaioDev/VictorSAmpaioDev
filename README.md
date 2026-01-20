@@ -9,19 +9,23 @@
 Aqui voce vai encontrar alguns projetos meus de desenvolvimento web.
 
 </div>
----
 
+<div align="justify">
 #  Sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas, desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
-Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que me fez querer ser Desenvolvedor.
+- Formado em Análise e Desenvolvimento de Sistemas;
+-  desenvolvo projetos focados em **JavaScript**, **Python**, **.NET**, **bancos de dados**, e aplicações voltadas para resolver problemas reais.
+Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que me fez querer ser Desenvolvedor;
+- Tenho facilidade em analisar e resolver problemas e procuro transpor isso para a programação;
+- Me formei como Desenvolvedor Full Stack no projeto Geração Tech 2.0;
+- So suspeito pra falar que amo design e musica;
 
----
+</div>
 
 # Alguumas das minhas Skills
 
 ### Linguagens e Frameworks
-<div>
+<div align="justify">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -30,7 +34,7 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
 </div>
 
 ### Banco de Dados  
-<div>
+<div align="justify">
   
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
@@ -38,7 +42,7 @@ Sem deixar de lado, claro, uma estetica bonita e atraente, afinal, foi isso que 
 </div>
 
 ### Ferramentas  
-<div>
+<div align="justify">
   
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
