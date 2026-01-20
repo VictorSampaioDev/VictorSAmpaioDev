@@ -1,9 +1,14 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header&text=Iae%2C%20meu%20fi!&fontSize=80&fontColor=ffffff" 
+  alt="cabeçalho com texto"/>
 
-#  Iae meu fi, me chamo João Victor 
-O Desenvolvedor Full Stack sempre ta querendo aprender algo novo
+<div align="justify">
+  
+#  Me chamo João Victor e te dou boas vindas
 
+Aqui voce vai encontrar alguns projetos meus de desenvolvimento web.
+
+</div>
 ---
 
 #  Sobre mim
